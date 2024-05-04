@@ -5,6 +5,7 @@ Sales & inventory data for a fictitious chain of toy stores in Mexico called Mav
 
 
 Finding through Analysis
+
 Which product categories drive the biggest profits? Is this the same across store locations?
 
 Can you find any seasonal trends or patterns in the sales data?
