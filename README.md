@@ -4,6 +4,12 @@ Mexico Toy Sales
 Sales & inventory data for a fictitious chain of toy stores in Mexico called Maven Toys, including information about products, stores, daily transactions, and current inventory levels at each location.
 
 
+Data Modeling -STAR SCHEMA
+
+![DATA MODELING](https://github.com/santoshkr23/Mexico-Toys-sales-/assets/60109277/35a543f0-1e57-4159-a46d-5747e91ca6cd)
+
+
+
 Finding through Analysis
 
 Which product categories drive the biggest profits? Is this the same across store locations?
