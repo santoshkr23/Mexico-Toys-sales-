@@ -3,8 +3,12 @@ Mexico Toy Sales Sales &amp; inventory data for a fictitious chain of toy stores
 Mexico Toy Sales
 Sales & inventory data for a fictitious chain of toy stores in Mexico called Maven Toys, including information about products, stores, daily transactions, and current inventory levels at each location.
 
+![Maven Toys sales Mexico](https://github.com/santoshkr23/Mexico-Toys-sales-/assets/60109277/b784a7e3-772a-4153-b1b5-da8ae987c552)
 
-![Screenshot (744)](https://github.com/santoshkr23/Mexico-Toys-sales-/assets/60109277/e770c4d0-8734-4e0c-a3c9-a9210ceecea4)
+![Screenshot (748)](https://github.com/santoshkr23/Mexico-Toys-sales-/assets/60109277/c41d2f87-d989-4abb-b5bb-158e45e4c867)
+
+
+![Screenshot (749)](https://github.com/santoshkr23/Mexico-Toys-sales-/assets/60109277/d6ab8ddc-be28-4e2a-8b4a-a90d39cf23ac)
 
 
 Data Modeling -STAR SCHEMA
