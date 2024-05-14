@@ -12,6 +12,8 @@ Sales & inventory data for a fictitious chain of toy stores in Mexico called Mav
 
 
 Data Modeling -STAR SCHEMA
+We Have 2 Fact table and others are dimensions table .
+But we can create snowflake and star schema as per requirements of dashboard .Here you can see i created Star schema .
 
 ![DATA MODELING](https://github.com/santoshkr23/Mexico-Toys-sales-/assets/60109277/35a543f0-1e57-4159-a46d-5747e91ca6cd)
 
